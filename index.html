@@ -7,9 +7,51 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <!-- Top note area (static content set in code) -->
+    <div class="top-textbox">
+      <h2 class="top-title">Project Report</h2>
+    </div>
+      <div class="top-textbox">
+        <div id="topNoteText" class="textbox" aria-label="Notes">
+          <p><strong>1.</strong> My objective was to learn more about the Steelers draft strategy and new players for the 2025-26 season.</p>
+          <p><strong>2.</strong> I scraped my info from the Wikipedia page <a href="https://en.wikipedia.org/wiki/2025_NFL_draft" target="_blank" rel="noopener noreferrer">2025 NFL Draft</a> as it had a complete record of every draft pick, including all Steeler picks. I utilized an AI for this section and my prompt was "I would like to scrape data from the 2025 NFL Draft wiki, the table contains information on the picks from this years draft. The table does not have an ID but does have a class called \"wikitable sortable plainrowheaders jquery-tablesorter\", return with all columns and headers from the table."</p>
+          <p>This is a sample of the code. We utilized pandas, beautifulsoup, requests, argparse, sys, time, Path, and List</p>
+          <pre><code>from __future__ import annotations
+  import argparse
+  import sys
+  import time
+  from typing import List, Optional
+  from pathlib import Path
+  import requests
+  from bs4 import BeautifulSoup
+  import pandas as pd
+  DEFAULT_URL = "https://en.wikipedia.org/wiki/2025_NFL_draft"
+  DEFAULT_CLASS = "wikitable sortable plainrowheaders jquery-tablesorter"
+
+
+  def fetch_html(url: str, timeout: int = 20, retries: int = 3, backoff: float = 1.5) -> str:
+      headers = {
+          "User-Agent": (
+              "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          )
+      }
+      last_exc: Optional[Exception] = None
+          </code></pre>
+          <p><strong>3.</strong> My SQL queries were quite simple, as I was fetching the required information about steelers picks. I exported a csv called "Steeler Picks" with the columns Player, NFL_Team, Round, Ovr_Pick_No, Position, College, and Notes.</p>
+          <p>Sample:</p>
+          <pre><code>SELECT Player, NFL_Team, Round, Ovr_Pick_No, Position, College, Notes
+  FROM draft
+  WHERE NFL_Team IN ('Pittsburgh Steelers')
+  ORDER BY Round asc;
+  </code></pre>
+          <p><strong>4.</strong> The web application is fairly simple, it allows you to make a selection on the left of the players drafted by the Steelers and and view some information such as position, round, and overall pick number of the players. There is a dropdown menu that will appear at the top to select other players, it also includes a portrait of the player and a link to their ESPN page.</p>
+        </div>
+      </div>
     <header>
       <h1>Steelers Picks</h1>
       <select id="playerDropdown" class="player-dropdown" aria-label="Select player" hidden></select>
+      <a class="repo-link" href="https://github.com/zd8Z65Ak/CIS--105-Final" target="_blank" rel="noopener noreferrer" aria-label="View project repository">GitHub Repo</a>
       <!-- Map page link removed per request -->
     </header>
 
