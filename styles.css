@@ -1,0 +1,47 @@
+:root {
+  --bg: #0f1115;
+  --panel: #171a21;
+  --text: #e6e6e6;
+  --muted: #9aa0aa;
+  --accent: #f7c52b;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji';
+  background: var(--bg); color: var(--text);
+}
+header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 16px 24px; background: var(--panel); border-bottom: 1px solid #22262f;
+}
+header h1 { margin: 0; font-size: 20px; }
+.player-dropdown { padding: 8px 10px; border-radius: 6px; border: 1px solid #2a2f3a; background: #0d0f13; color: var(--text); }
+
+main { display: grid; grid-template-columns: 280px 1fr; gap: 16px; padding: 16px; }
+main.expanded { grid-template-columns: 1fr; }
+aside { background: var(--panel); border: 1px solid #22262f; border-radius: 8px; padding: 12px; }
+.player-list { list-style: none; margin: 0; padding: 0; max-height: calc(100vh - 180px); overflow: auto; }
+.player-list li { padding: 10px; border-bottom: 1px solid #1f2330; cursor: pointer; }
+.player-list li:hover { background: #1a1e27; }
+
+.details { display: grid; grid-template-rows: auto auto; gap: 12px; }
+.card { background: var(--panel); border: 1px solid #22262f; border-radius: 8px; padding: 12px; }
+.card { position: relative; z-index: 1; }
+.card h2 { margin-top: 0; }
+.photo-row { display: flex; align-items: center; gap: 12px; margin: 8px 0 12px; }
+#playerPhoto { width: 140px; height: 140px; object-fit: cover; border-radius: 8px; border: 1px solid #22262f; background: #0d0f13; }
+.links-row { margin: 4px 0 12px; }
+.links-row a { color: var(--accent); text-decoration: none; }
+.links-row a:hover { text-decoration: underline; }
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.map { border: 1px solid #22262f; border-radius: 8px; width: 100%; height: 180px; position: relative; z-index: 0; margin-top: 8px; }
+/* Ensure Leaflet controls don't block the rest of the UI */
+.leaflet-container { z-index: 0; background: none; }
+.leaflet-top, .leaflet-bottom { z-index: 400; }
+
+/* Prevent the map from capturing clicks outside its bounds */
+.map ~ * { position: relative; z-index: 1; }
+
+.muted { color: var(--muted); }
+.accent { color: var(--accent); }

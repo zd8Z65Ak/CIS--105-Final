@@ -1,0 +1,260 @@
+Round,Ovr_Pick_No,NFL_Team,Player,Position,College,Conference,Notes
+1,1,Tennessee Titans,Cam Ward,QB,Miami (FL),ACC,2024 Davey O'Brien Award winner
+1,2,Jacksonville Jaguars,Travis Hunter,CB/WR,Colorado,Big 12,2024 Heisman Trophy winner; from Cleveland[R1 – 1]
+1,3,New York Giants,Abdul Carter,DE,Penn State,Big Ten,
+1,4,New England Patriots,Will Campbell,OT,LSU,SEC,
+1,5,Cleveland Browns,Mason Graham,DT,Michigan,Big Ten,from Jacksonville[R1 – 2]
+1,6,Las Vegas Raiders,Ashton Jeanty,RB,Boise State,MW,2024 Maxwell Award winner
+1,7,New York Jets,Armand Membou,OT,Missouri,SEC,
+1,8,Carolina Panthers,Tetairoa McMillan,WR,Arizona,Big 12,
+1,9,New Orleans Saints,Kelvin Banks Jr.,OT,Texas,SEC,2024 Lombardi Award winner
+1,10,Chicago Bears,Colston Loveland,TE,Michigan,Big Ten,
+1,11,San Francisco 49ers,Mykel Williams,DE,Georgia,SEC,
+1,12,Dallas Cowboys,Tyler Booker,G,Alabama,SEC,
+1,13,Miami Dolphins,Kenneth Grant,DT,Michigan,Big Ten,
+1,14,Indianapolis Colts,Tyler Warren,TE,Penn State,Big Ten,2024 John Mackey Award winner
+1,15,Atlanta Falcons,Jalon Walker,OLB,Georgia,SEC,2024 Dick Butkus Award winner
+1,16,Arizona Cardinals,Walter Nolen,DT,Ole Miss,SEC,
+1,17,Cincinnati Bengals,Shemar Stewart,DE,Texas A&M,SEC,
+1,18,Seattle Seahawks,Grey Zabel,G,North Dakota State,MVFC,
+1,19,Tampa Bay Buccaneers,Emeka Egbuka,WR,Ohio State,Big Ten,
+1,20,Denver Broncos,Jahdae Barron,CB,Texas,SEC,2024 Jim Thorpe Award winner
+1,21,Pittsburgh Steelers,Derrick Harmon,DT,Oregon,Big Ten,
+1,22,Los Angeles Chargers,Omarion Hampton,RB,North Carolina,ACC,
+1,23,Green Bay Packers,Matthew Golden,WR,Texas,SEC,
+1,24,Minnesota Vikings,Donovan Jackson,G,Ohio State,Big Ten,
+1,25,New York Giants,Jaxson Dart,QB,Ole Miss,SEC,from Houston[R1 – 3]
+1,26,Atlanta Falcons,James Pearce Jr.,DE,Tennessee,SEC,from LA Rams[R1 – 4]
+1,27,Baltimore Ravens,Malaki Starks,S,Georgia,SEC,
+1,28,Detroit Lions,Tyleik Williams,DT,Ohio State,Big Ten,
+1,29,Washington Commanders,Josh Conerly Jr.,OT,Oregon,Big Ten,
+1,30,Buffalo Bills,Maxwell Hairston,CB,Kentucky,SEC,
+1,31,Philadelphia Eagles,Jihaad Campbell,LB,Alabama,SEC,from Kansas City[R1 – 5]
+1,32,Kansas City Chiefs,Josh Simmons,OT,Ohio State,Big Ten,from Philadelphia[R1 – 6]
+2,33,Cleveland Browns,Carson Schwesinger,LB,UCLA,Big Ten,
+2,34,Houston Texans,Jayden Higgins,WR,Iowa State,Big 12,from NY Giants[R2 – 1]
+2,35,Seattle Seahawks,Nick Emmanwori,S,South Carolina,SEC,from Tennessee[R2 – 2]
+2,36,Cleveland Browns,Quinshon Judkins,RB,Ohio State,Big Ten,from Jacksonville[R2 – 3]
+2,37,Miami Dolphins,Jonah Savaiinaea,G,Arizona,Big 12,from Las Vegas[R2 – 4]
+2,38,New England Patriots,TreVeyon Henderson,RB,Ohio State,Big Ten,
+2,39,Chicago Bears,Luther Burden III,WR,Missouri,SEC,from Carolina[R2 – 5]
+2,40,New Orleans Saints,Tyler Shough,QB,Louisville,ACC,
+2,41,Buffalo Bills,T. J. Sanders,DT,South Carolina,SEC,from Chicago[R2 – 6]
+2,42,New York Jets,Mason Taylor,TE,LSU,SEC,
+2,43,San Francisco 49ers,Alfred Collins,DT,Texas,SEC,
+2,44,Dallas Cowboys,Donovan Ezeiruaku,DE,Boston College,ACC,2024 Ted Hendricks Award winner
+2,45,Indianapolis Colts,JT Tuimoloau,DE,Ohio State,Big Ten,
+2,46,Los Angeles Rams,Terrance Ferguson,TE,Oregon,Big Ten,from Atlanta[R2 – 7]
+2,47,Arizona Cardinals,Will Johnson,CB,Michigan,Big Ten,
+2,48,Houston Texans,Aireontae Ersery,OT,Minnesota,Big Ten,from Miami via Las Vegas[R2 – 8]
+2,49,Cincinnati Bengals,Demetrius Knight,LB,South Carolina,SEC,
+2,50,Seattle Seahawks,Elijah Arroyo,TE,Miami (FL),ACC,
+2,51,Carolina Panthers,Nic Scourton,DE,Texas A&M,SEC,from Denver[R2 – 9]
+2,52,Tennessee Titans,Oluwafemi Oladejo,DE,UCLA,Big Ten,from Pittsburgh via Seattle[R2 – 10]
+2,53,Tampa Bay Buccaneers,Benjamin Morrison,CB,Notre Dame,Ind. (FBS),
+2,54,Green Bay Packers,Anthony Belton,OT,NC State,ACC,
+2,55,Los Angeles Chargers,Tre Harris,WR,Ole Miss,SEC,
+2,56,Chicago Bears,Ozzy Trapilo,OT,Boston College,ACC,from Minnesota via Houston and Buffalo[R2 – 11]
+2,57,Detroit Lions,Tate Ratledge,G,Georgia,SEC,from LA Rams via Carolina and Denver[R2 – 12]
+2,58,Las Vegas Raiders,Jack Bech,WR,TCU,Big 12,from Houston[R2 – 13]
+2,59,Baltimore Ravens,Mike Green,LB,Marshall,Sun Belt,
+2,60,Denver Broncos,RJ Harvey,RB,UCF,Big 12,from Detroit[R2 – 14]
+2,61,Washington Commanders,Trey Amos,CB,Ole Miss,SEC,
+2,62,Chicago Bears,Shemar Turner,DT,Texas A&M,SEC,from Buffalo[R2 – 15]
+2,63,Kansas City Chiefs,Omarr Norman-Lott,DT,Tennessee,SEC,
+2,64,Philadelphia Eagles,Andrew Mukuba,S,Texas,SEC,
+3,65,New York Giants,Darius Alexander,DT,Toledo,MAC,
+3,66,Kansas City Chiefs,Ashton Gillotte,DE,Louisville,ACC,from Tennessee[R3 – 1]
+3,67,Cleveland Browns,Harold Fannin Jr.,TE,Bowling Green,MAC,
+3,68,Las Vegas Raiders,Darien Porter,CB,Iowa State,Big 12,
+3,69,New England Patriots,Kyle Williams,WR,Washington State,Pac-12,
+3,70,Detroit Lions,Isaac TeSlaa,WR,Arkansas,SEC,from Jacksonville[R3 – 2]
+3,71,New Orleans Saints,Vernon Broughton,DT,Texas,SEC,
+3,72,Buffalo Bills,Landon Jackson,DE,Arkansas,SEC,from Chicago[R3 – 3]
+3,73,New York Jets,Azareye'h Thomas,CB,Florida State,ACC,
+3,74,Denver Broncos,Pat Bryant,WR,Illinois,Big Ten,from Carolina[R3 – 4]
+3,75,San Francisco 49ers,Nick Martin,LB,Oklahoma State,Big 12,
+3,76,Dallas Cowboys,Shavon Revel,CB,East Carolina,The American,
+3,77,Carolina Panthers,Princely Umanmielen,DE,Ole Miss,SEC,from Atlanta via New England[R3 – 5]
+3,78,Arizona Cardinals,Jordan Burch,DE,Oregon,Big Ten,
+3,79,Houston Texans,Jaylin Noel,WR,Iowa State,Big 12,from Miami via Philadelphia and Washington[R3 – 6]
+3,80,Indianapolis Colts,Justin Walley,CB,Minnesota,Big Ten,
+3,81,Cincinnati Bengals,Dylan Fairchild,G,Georgia,SEC,
+3,82,Tennessee Titans,Kevin Winston Jr.,S,Penn State,Big Ten,from Seattle[R3 – 7]
+3,83,Pittsburgh Steelers,Kaleb Johnson,RB,Iowa,Big Ten,
+3,84,Tampa Bay Buccaneers,Jacob Parrish,CB,Kansas State,Big 12,
+3,85,Kansas City Chiefs,Nohl Williams,CB,California,ACC,from Denver via Carolina and New England[R3 – 8]
+3,86,Los Angeles Chargers,Jamaree Caldwell,DT,Oregon,Big Ten,
+3,87,Green Bay Packers,Savion Williams,WR,TCU,Big 12,
+3,88,Jacksonville Jaguars,Caleb Ransaw,CB,Tulane,The American,from Minnesota[R3 – 9]
+3,89,Jacksonville Jaguars,Wyatt Milum,G,West Virginia,Big 12,from Houston[R3 – 10]
+3,90,Los Angeles Rams,Josaiah Stewart,DE,Michigan,Big Ten,
+3,91,Baltimore Ravens,Emery Jones Jr.,OT,LSU,SEC,
+3,92,Seattle Seahawks,Jalen Milroe,QB,Alabama,SEC,2024 William V. Campbell Trophy winner; from Detroit via NY Jets and Las Vegas[R3 – 11]
+3,93,New Orleans Saints,Jonas Sanker,S,Virginia,ACC,from Washington[R3 – 12]
+3,94,Cleveland Browns,Dillon Gabriel,QB,Oregon,Big Ten,from Buffalo[R3 – 13]
+3,95,New England Patriots,Jared Wilson,C,Georgia,SEC,from Kansas City[R3 – 14]
+3,96,Atlanta Falcons,Xavier Watts,S,Notre Dame,Ind. (FBS),2023 Bronko Nagurski Trophy winner; from Philadelphia[R3 – 15]
+3*,97,Houston Texans,Jaylin Smith,CB,USC,Big Ten,from Minnesota[R3 – 16]
+3*,98,Las Vegas Raiders,Caleb Rogers,G,Texas Tech,Big 12,from Miami[R3 – 17]
+3*,99,Las Vegas Raiders,Charles Grant,OT,William & Mary,CAA,from NY Giants via Houston[R3 – 18]
+3×,100,San Francisco 49ers,Upton Stout,CB,Western Kentucky,CUSA,Resolution JC-2A selection[a]
+3×,101,Denver Broncos,Sai'vion Jones,DE,LSU,SEC,"Resolution JC-2A selection,[b] from LA Rams via Atlanta and Philadelphia[R3 – 19]"
+3×,102,Minnesota Vikings,Tai Felton,WR,Maryland,Big Ten,"Resolution JC-2A selection,[c] from Detroit via Jacksonville and Houston[R3 – 20]"
+4,103,Tennessee Titans,Chimere Dike,WR,Florida,SEC,
+4,104,Jacksonville Jaguars,Bhayshul Tuten,RB,Virginia Tech,ACC,from Cleveland[R4 – 1]
+4,105,New York Giants,Cam Skattebo,RB,Arizona State,Big 12,
+4,106,New England Patriots,Craig Woodson,S,California,ACC,
+4,107,Jacksonville Jaguars,Jack Kiser,LB,Notre Dame,Ind. (FBS),
+4,108,Las Vegas Raiders,Dont'e Thornton,WR,Tennessee,SEC,
+4,109,Buffalo Bills,Deone Walker,DT,Kentucky,SEC,from Chicago via Buffalo and Chicago[R4 – 2]
+4,110,New York Jets,Arian Smith,WR,Georgia,SEC,
+4,111,Philadelphia Eagles,Ty Robinson,DT,Nebraska,Big Ten,from Carolina via Denver[R4 – 3]
+4,112,New Orleans Saints,Danny Stutsman,LB,Oklahoma,SEC,
+4,113,San Francisco 49ers,CJ West,DT,Indiana,Big Ten,
+4,114,Carolina Panthers,Trevor Etienne,RB,Georgia,SEC,from Dallas[R4 – 4]
+4,115,Arizona Cardinals,Cody Simon,LB,Ohio State,Big Ten,
+4,116,Houston Texans,Woody Marks,RB,USC,Big Ten,from Miami[R4 – 5]
+4,117,Los Angeles Rams,Jarquez Hunter,RB,Auburn,SEC,from Indianapolis[R4 – 6]
+4,118,Atlanta Falcons,Billy Bowman Jr.,S,Oklahoma,SEC,
+4,119,Cincinnati Bengals,Barrett Carter,LB,Clemson,ACC,
+4,120,Tennessee Titans,Gunnar Helm,TE,Texas,SEC,from Seattle[R4 – 7]
+4,121,Tampa Bay Buccaneers,David Walker,LB,Central Arkansas,UAC,
+4,122,Carolina Panthers,Lathan Ransom,S,Ohio State,Big Ten,from Denver[R4 – 8]
+4,123,Pittsburgh Steelers,Jack Sawyer,DE,Ohio State,Big Ten,
+4,124,Green Bay Packers,Barryn Sorrell,DE,Texas,SEC,
+4,125,Los Angeles Chargers,Kyle Kennard,LB,South Carolina,SEC,2024 Bronko Nagurski Trophy winner
+4,126,Cleveland Browns,Dylan Sampson,RB,Tennessee,SEC,from Minnesota via Jacksonville[R4 – 9]
+4,127,Indianapolis Colts,Jalen Travis,OT,Iowa State,Big 12,from LA Rams[R4 – 10]
+4,128,Washington Commanders,Jaylin Lane,WR,Virginia Tech,ACC,from Houston[R4 – 11]
+4,129,Baltimore Ravens,Teddye Buchanan,LB,California,ACC,
+4,130,New York Jets,Malachi Moore,S,Alabama,SEC,from Detroit via Denver and Philadelphia[R4 – 12]
+4,131,New Orleans Saints,Quincy Riley,CB,Louisville,ACC,from Washington[R4 – 13]
+4,132,Chicago Bears,Ruben Hyppolite II,LB,Maryland,Big Ten,from Buffalo[R4 – 14]
+4,133,Kansas City Chiefs,Jalen Royals,WR,Utah State,MW,
+4,134,Denver Broncos,Que Robinson,LB,Alabama,SEC,from Philadelphia via Detroit and Philadelphia[R4 – 15]
+4*,135,Las Vegas Raiders,Tonka Hemingway,DT,South Carolina,SEC,from Miami[R4 – 16]
+4*,136,Tennessee Titans,Elic Ayomanor,WR,Stanford,ACC,from Baltimore[R4 – 17]
+4*,137,New England Patriots,Joshua Farmer,DT,Florida State,ACC,from Seattle[R4 – 18]
+4*,138,San Francisco 49ers,Jordan Watkins,WR,Ole Miss,SEC,
+5,139,Minnesota Vikings,Tyrion Ingram-Dawkins,DE,Georgia,SEC,from Cleveland[R5 – 1]
+5,140,Carolina Panthers,Cam Jackson,DT,Florida,SEC,from NY Giants[R5 – 2]
+5,141,Baltimore Ravens,Carson Vinson,OT,Alabama A&M,SWAC,from Tennessee[R5 – 3]
+5,142,Seattle Seahawks,Rylie Mills,DT,Notre Dame,Ind. (FBS),from Jacksonville via Houston and Minnesota[R5 – 4]
+5,143,Miami Dolphins,Jordan Phillips,DT,Maryland,Big Ten,from Las Vegas[R5 – 5]
+5,144,Cleveland Browns,Shedeur Sanders,QB,Colorado,Big 12,2024 Johnny Unitas Golden Arm Award winner; from New England via Seattle[R5 – 6]
+5,145,Philadelphia Eagles,Mac McWilliams,CB,UCF,Big 12,from NY Jets[R5 – 7]
+5,146,New England Patriots,Bradyn Swinson,DE,LSU,SEC,from Carolina[R5 – 8]
+5,147,San Francisco 49ers,Jordan James,RB,Oregon,Big Ten,from New Orleans via Washington[R5 – 9]
+5,148,Los Angeles Rams,Ty Hamilton,DT,Ohio State,Big Ten,from Chicago[R5 – 10]
+5,–,San Francisco 49ers,Selection forfeited[Forfeit 1],Selection forfeited[Forfeit 1],Selection forfeited[Forfeit 1],Selection forfeited[Forfeit 1],Selection forfeited[Forfeit 1]
+5,149,Dallas Cowboys,Jaydon Blue,RB,Texas,SEC,
+5,150,Miami Dolphins,Jason Marshall Jr.,CB,Florida,SEC,
+5,151,Indianapolis Colts,DJ Giddens,RB,Kansas State,Big 12,
+5,–,Atlanta Falcons,Selection forfeited[Forfeit 2],Selection forfeited[Forfeit 2],Selection forfeited[Forfeit 2],Selection forfeited[Forfeit 2],Selection forfeited[Forfeit 2]
+5,152,Dallas Cowboys,Shemar James,LB,Florida,SEC,from Arizona[R5 – 11]
+5,153,Cincinnati Bengals,Jalen Rivers,G,Miami (FL),ACC,
+5,154,New York Giants,Marcus Mbow,G,Purdue,Big Ten,from Seattle[R5 – 12]
+5,155,Miami Dolphins,Dante Trader Jr.,S,Maryland,Big Ten,from Denver[R5 – 13]
+5,156,Kansas City Chiefs,Jeffrey Bassa,LB,Oregon,Big Ten,from Pittsburgh[R5 – 14]
+5,157,Tampa Bay Buccaneers,Elijah Roberts,DE,SMU,ACC,
+5,158,Los Angeles Chargers,KeAndre Lambert-Smith,WR,Auburn,SEC,
+5,159,Green Bay Packers,Collin Oliver,LB,Oklahoma State,Big 12,
+5,160,San Francisco 49ers,Marques Sigle,S,Kansas State,Big 12,from Minnesota[R5 – 15]
+5,161,Philadelphia Eagles,Smael Mondon Jr.,LB,Georgia,SEC,from Houston[R5 – 16]
+5,162,New York Jets,Francisco Mauigoa,LB,Miami (FL),ACC,from LA Rams via Pittsburgh[R5 – 17]
+5,163,Carolina Panthers,Mitchell Evans,TE,Notre Dame,Ind. (FBS),from Baltimore[R5 – 18]
+5,164,Pittsburgh Steelers,Yahya Black,DT,Iowa,Big Ten,"from Detroit via Cleveland, Philadelphia and Kansas City[R5 – 19]"
+5,165,Los Angeles Chargers,Oronde Gadsden II,TE,Syracuse,ACC,from Washington via Philadelphia[R5 – 20]
+5,166,Seattle Seahawks,Tory Horton,WR,Colorado State,MW,from Buffalo via Houston and Cleveland[R5 – 21]
+5,167,Tennessee Titans,Jackson Slater,G,Sacramento State,Big Sky,from Kansas City[R5 – 22]
+5,168,Philadelphia Eagles,Drew Kendall,C,Boston College,ACC,
+5*,169,Chicago Bears,Zah Frazier,CB,UTSA,The American,from Buffalo[R5 – 23]
+5*,170,Buffalo Bills,Jordan Hancock,CB,Ohio State,Big Ten,from Dallas[R5 – 24]
+5*,171,Detroit Lions,Miles Frazier,G,LSU,SEC,from Dallas via New England[R5 – 25]
+5*,172,Los Angeles Rams,Chris Paul Jr.,LB,Ole Miss,SEC,from Seattle via Minnesota[R5 – 26]
+5*,173,Buffalo Bills,Jackson Hawes,TE,Georgia Tech,ACC,
+5*,174,Arizona Cardinals,Denzel Burke,CB,Ohio State,Big Ten,from Dallas[R5 – 27]
+5*,175,Seattle Seahawks,Robbie Ouzts,FB,Alabama,SEC,
+5*,176,New York Jets,Tyler Baron,DE,Miami (FL),ACC,from Baltimore[R5 – 28]
+6,177,Buffalo Bills,Dorian Strong,CB,Virginia Tech,ACC,from NY Giants[R6 – 1]
+6,178,Baltimore Ravens,Bilhal Kone,CB,Western Michigan,MAC,from Tennessee[R6 – 2]
+6,179,Miami Dolphins,Ollie Gordon II,RB,Oklahoma State,Big 12,from Cleveland via Houston[R6 – 3]
+6,180,Las Vegas Raiders,JJ Pegues,DT,Ole Miss,SEC,
+6,181,Philadelphia Eagles,Kyle McCord,QB,Syracuse,ACC,from New England via LA Chargers[R6 – 4]
+6,182,New England Patriots,Andrés Borregales,K,Miami (FL),ACC,from Jacksonville via Detroit[R6 – 5]
+6,183,Tennessee Titans,Marcus Harris,CB,California,ACC,from Carolina via Baltimore[R6 – 6]
+6,184,New Orleans Saints,Devin Neal,RB,Kansas,Big 12,from New Orleans via Washington[R6 – 7]
+6,185,Pittsburgh Steelers,Will Howard,QB,Ohio State,Big Ten,from Chicago via Seattle[R6 – 8]
+6,186,Baltimore Ravens,Tyler Loop,K,Arizona,Big 12,from NY Jets[R6 – 9]
+6,187,Houston Texans,Jaylen Reed,S,Penn State,Big Ten,from San Francisco via Minnesota[R6 – 10]
+6,188,Tennessee Titans,Kalel Mullings,RB,Michigan,Big Ten,from Dallas[R6 – 11]
+6,189,Indianapolis Colts,Riley Leonard,QB,Notre Dame,Ind. (FBS),
+6,190,Indianapolis Colts,Tim Smith,DT,Alabama,SEC,from Atlanta via LA Rams[R6 – 12]
+6,191,Philadelphia Eagles,Myles Hinton,OT,Michigan,Big Ten,from Arizona via Denver[R6 – 13]
+6,192,Seattle Seahawks,Bryce Cabeldue,G,Kansas,Big 12,from Miami via Chicago and Cleveland[R6 – 14]
+6,193,Cincinnati Bengals,Tahj Brooks,RB,Texas Tech,Big 12,
+6,194,Jacksonville Jaguars,Jalen McLeod,LB,Auburn,SEC,from Seattle[R6 – 15]
+6,195,Chicago Bears,Luke Newman,G,Michigan State,Big Ten,from Pittsburgh via LA Rams[R6 – 16]
+6,196,Detroit Lions,Ahmed Hassanein,DE,Boise State,MW,from Tampa Bay[R6 – 17]
+6,197,Houston Texans,Graham Mertz,QB,Florida,SEC,from Denver[R6 – 18]
+6,198,Green Bay Packers,Warren Brinson,DT,Georgia,SEC,
+6,199,Los Angeles Chargers,Branson Taylor,OT,Pittsburgh,ACC,
+6,200,Jacksonville Jaguars,Rayuan Lane III,S,Navy,The American,from Minnesota via Cleveland[R6 – 19]
+6,201,Minnesota Vikings,Kobe King,LB,Penn State,Big Ten,from LA Rams[R6 – 20]
+6,202,Minnesota Vikings,Gavin Bartholomew,TE,Pittsburgh,ACC,"from Houston via Pittsburgh, Chicago and LA Rams[R6 – 21]"
+6,203,Baltimore Ravens,LaJohntay Wester,WR,Colorado,Big 12,
+6,204,Dallas Cowboys,Ajani Cornelius,OT,Oregon,Big Ten,from Detroit via Cleveland and Buffalo[R6 – 22]
+6,205,Washington Commanders,Kain Medrano,LB,UCLA,Big Ten,
+6,206,Buffalo Bills,Chase Lundt,OT,UConn,Ind. (FBS),
+6,207,Philadelphia Eagles,Cameron Williams,T,Texas,SEC,from Kansas City via NY Jets[R6 – 23]
+6,208,Carolina Panthers,Jimmy Horn Jr.,WR,Colorado,Big 12,from Philadelphia via Denver[R6 – 24]
+6*,209,Philadelphia Eagles,Antwaun Powell-Ryland,DE,Virginia Tech,ACC,from LA Chargers[R6 – 25]
+6*,210,Baltimore Ravens,Aeneas Peebles,DT,Virginia Tech,ACC,
+6*,211,Arizona Cardinals,Hayden Conner,G,Texas,SEC,from Dallas[R6 – 26]
+6*,212,Baltimore Ravens,Robert Longerbeam,CB,Rutgers,Big Ten,
+6*,213,Las Vegas Raiders,Tommy Mellott,WR,Montana State,Big Sky,
+6*,214,Los Angeles Chargers,R. J. Mickens,S,Clemson,ACC,
+6*,215,Las Vegas Raiders,Cam Miller,QB,North Dakota State,MVFC,
+6*,216,Denver Broncos,Jeremy Crawshaw,P,Florida,SEC,from Cleveland via Houston[R6 – 27]
+7,217,Dallas Cowboys,Jay Toia,DT,UCLA,Big Ten,from Tennessee via New England[R7 – 1]
+7,218,Atlanta Falcons,Jack Nelson,OT,Wisconsin,Big Ten,from Cleveland via LA Chargers[R7 – 2]
+7,219,New York Giants,Thomas Fidone,TE,Nebraska,Big Ten,
+7,220,New England Patriots,Marcus Bryant,T,Missouri,SEC,
+7,221,Jacksonville Jaguars,Jonah Monheim,C,USC,Big Ten,
+7,222,Las Vegas Raiders,Cody Lindenberg,LB,Minnesota,Big Ten,
+7,223,Seattle Seahawks,Damien Martinez,RB,Miami (FL),ACC,from New Orleans via Philadelphia and Pittsburgh[R7 – 3]
+7,224,Houston Texans,Kyonte Hamilton,DT,Rutgers,Big Ten,from Chicago[R7 – 4]
+7,225,Arizona Cardinals,Kitan Crawford,S,Nevada,MW,from NY Jets via Kansas City[R7 – 5]
+7,226,Pittsburgh Steelers,Carson Bruener,LB,Washington,Big Ten,from Carolina via Kansas City[R7 – 6]
+7,227,San Francisco 49ers,Kurtis Rourke,QB,Indiana,Big Ten,2024 Jon Cornish Trophy winner
+7,228,Kansas City Chiefs,Brashard Smith,RB,SMU,ACC,from Dallas via Detroit and New England[R7 – 7]
+7,229,Pittsburgh Steelers,Donte Kent,CB,Central Michigan,MAC,from Atlanta via Philadelphia[R7 – 8]
+7,230,Detroit Lions,Dan Jackson,S,Georgia,SEC,from Arizona via Carolina and Denver[R7 – 9]
+7,231,Miami Dolphins,Quinn Ewers,QB,Texas,SEC,
+7,232,Indianapolis Colts,Hunter Wohler,S,Wisconsin,Big Ten,
+7,233,Chicago Bears,Kyle Monangai,RB,Rutgers,Big Ten,from Cincinnati[R7 – 10]
+7,234,Seattle Seahawks,Mason Richman,OT,Iowa,Big Ten,
+7,235,Tampa Bay Buccaneers,Tez Johnson,WR,Oregon,Big Ten,
+7,236,Jacksonville Jaguars,LeQuint Allen,RB,Syracuse,ACC,"from Denver via Philadelphia, Washington and Houston[R7 – 11]"
+7,237,Green Bay Packers,Micah Robinson,CB,Tulane,The American,from Pittsburgh[R7 – 12]
+7,238,Seattle Seahawks,Ricky White III,WR,UNLV,MW,from LA Chargers via New England[R7 – 13]
+7,239,Dallas Cowboys,Phil Mafah,RB,Clemson,ACC,from Green Bay via Tennessee[R7 – 14]
+7,240,Buffalo Bills,Kaden Prather,WR,Maryland,Big Ten,from Minnesota via Cleveland and Chicago[R7 – 15]
+7,241,Denver Broncos,Caleb Lohner,TE,Utah,Big 12,from Houston[R7 – 16]
+7,242,Los Angeles Rams,Konata Mumpfield,WR,Pittsburgh,ACC,from LA Rams via Atlanta[R7 – 17]
+7,243,Baltimore Ravens,Garrett Dellinger,G,LSU,SEC,
+7,244,Detroit Lions,Dominic Lovett,WR,Georgia,SEC,
+7,245,Washington Commanders,Jacory Croskey-Merritt,RB,Arizona,Big 12,
+7,246,New York Giants,Korie Black,CB,Oklahoma State,Big 12,from Buffalo[R7 – 18]
+7,247,Dallas Cowboys,Tommy Akingbesote,DT,Maryland,Big Ten,from Kansas City via Carolina[R7 – 19]
+7,248,New Orleans Saints,Moliki Matavao,TE,UCLA,Big Ten,from Philadelphia via Washington[R7 – 20]
+7*,249,San Francisco 49ers,Connor Colby,G,Iowa,Big Ten,
+7*,250,Green Bay Packers,John Williams,G,Cincinnati,Big 12,
+7*,251,New England Patriots,Julian Ashby,LS,Vanderbilt,SEC,from Kansas City[R7 – 21]
+7*,252,San Francisco 49ers,Junior Bergen,WR,Montana,Big Sky,
+7*,253,Miami Dolphins,Zeek Biggers,DT,Georgia Tech,ACC,
+7*,254,New Orleans Saints,Fadil Diggs,DE,Syracuse,ACC,
+7*,255,Houston Texans,Luke Lachey,TE,Iowa,Big Ten,from Cleveland[R7 – 22]
+7*,256,Los Angeles Chargers,Trikweze Bridges,CB,Florida,SEC,
+7*,257,New England Patriots,Kobee Minor,CB,Memphis,The American,from Kansas City[R7 – 23]

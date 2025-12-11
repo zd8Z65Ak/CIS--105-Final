@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Steelers Picks Viewer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Steelers Picks</h1>
+      <select id="playerDropdown" class="player-dropdown" aria-label="Select player" hidden></select>
+      <!-- Map page link removed per request -->
+    </header>
+
+    <main>
+      <aside id="sidebar">
+        <h2>Players</h2>
+        <ul id="playerList" class="player-list"></ul>
+      </aside>
+
+      <section class="details" hidden>
+        <div id="playerInfo" class="card">
+          <h2 id="playerName">Select a player</h2>
+          <div class="photo-row" id="photoRow">
+            <img id="playerPhoto" alt="Player photo" />
+          </div>
+          <div class="links-row" id="linksRow" hidden>
+            <a id="profileLink" href="#" target="_blank" rel="noopener noreferrer">View profile</a>
+          </div>
+          <div class="grid">
+            <div><strong>Round:</strong> <span id="round"></span></div>
+            <div><strong>Overall Pick:</strong> <span id="pick"></span></div>
+            <div><strong>Position:</strong> <span id="position"></span></div>
+            <div><strong>College:</strong> <span id="college"></span></div>
+            <div><strong>Notes:</strong> <span id="notes"></span></div>
+          </div>
+        </div>
+        <!-- Map temporarily removed; will add later -->
+      </section>
+    </main>
+
+    <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
